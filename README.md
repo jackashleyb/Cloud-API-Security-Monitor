@@ -15,3 +15,6 @@ Skills Used
 * DevSecOps
 * GitHub Actions
 * cloud deployment
+
+
+Goal of the API is to dectect - Prompt Injection, Secreat Leakage, Dangerous Commands, SQL Injection Patterns, XSS patterns, Oversized Inputs, Suspicious Encoding.  
